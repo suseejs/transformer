@@ -38,9 +38,6 @@
     "url": "https://github.com/suseejs/transformer/issues"
   },
   "homepage": "https://github.com/suseejs/transformer#readme",
-  "dependencies": {
-    "typescript": "^5.9.3"
-  },
   "files": [
     "dist",
     "LICENSE",
@@ -49,5 +46,8 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "typescript": "^6.0.2"
   }
 }
